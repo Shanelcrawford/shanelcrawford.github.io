@@ -5,7 +5,7 @@ image: java-vs-c.jpg
 title: Micromouse
 permalink: projects/java to c
 # All dates must be YYYY-MM-DD format!
-date: 2021-1-18
+date: 2021-01-18
 labels:
   - C
 summary:I developed a mini project of working with java script and converting it into c code.
