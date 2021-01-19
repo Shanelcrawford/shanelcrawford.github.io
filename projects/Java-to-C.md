@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/java-to-c.jpg
+image: images/java-vs-c.jpg
 title: Java to C
 permalink: projects/java-to-c
 # All dates must be YYYY-MM-DD format!
