@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: java-vs-c.jpg
-title: Micromouse
+title: java to c
 permalink: projects/java to c
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-18
