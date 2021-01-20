@@ -7,7 +7,7 @@ date: 2021-01-20
 labels:
   - Computer Science
   - Learning
-  -Javascript
+  - Javascript
 ---
 
 Being someone who is fairly new to programming, learning various computer languages have been both something to be excited about but also something very difficult to learn. I am excited to continue practicing and learning various languages such as C, Java, and Javascript. This semester, learning Javascript within the first two weeks, and continuing to learn more has opened my eyes to being more perceptive and trying to really understand the code that is being written. Therefore, comparing this to other languages, this language is much easier to learn, write, and understand. 
