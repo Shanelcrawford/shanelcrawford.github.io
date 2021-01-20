@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "shanelcrawford",
         "url": "http://linkedin.com/in/shanelcrawford"
       }
     ]
@@ -57,90 +57,75 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Unix",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Infomration and Computer Science, and Theatre (expected Spring, 2021)",
+      "studyType": "B.A.",
+      "startDate": "2017-08-21",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.27",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Nijiya Supermarket",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2018-08",
+      "endDate": "2020-08",
+      "summary": "Communicate with the general public to have a quick and easy checkout",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Work as a group to assist customers and take inventory of store items.",
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "James Campbell High School- Department of Education",
+      "position": "Teacher's Assistant and Avid tutor",
+      "website": "",
+      "startDate": "2017-09-01",
+      "endDate": "2017-12-15",
+      "summary": "Tutor for subjects such as Math and Science",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Interacted and Communicated with students, staff, and faculty to assist teachers through transporting important files and materials.",
+        "Assisted students in the learning process to aid in course work ranging from English, Geometry, Algebra II, and Biology; both through the Advancement Via Individual Determination (AVID) college preparatory Program and afterschool tutoring."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Boys and Girls Club of Hawaii",
+      "website": "",
+      "position": "Student Volunteer",
+      "startDate": "2015-08-21",
+      "endDate": "2017-08-21",
+      "summary": "Volunteer to tutor young children, and help with club activities.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Help with various activity set ups, reading children books to young children, and tutored young students with Math.",
+      
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+   
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "SOEST Dean's List",
+      "date": "2017-2017",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Academic award given to those who have maintained a 3.8 or higher for the academic year."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2017-present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students who have shown academic merit during their four years of high school and throughout their acadmeic career at the University."
     }
   ],
   "references": [
