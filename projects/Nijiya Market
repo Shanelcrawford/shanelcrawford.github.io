@@ -3,12 +3,13 @@ layout: project
 type: project
 image: images/nijiya.png
 title: Nijiya Market
-permalink: projects/vacay
+permalink: projects/nijiya
 # All dates must be YYYY-MM-DD format!
 date: 2017-08
 labels:
   - Communication
   - Hard work
+
 summary: Communicating with the general public and ensuring a successful experience.
 ---
 
